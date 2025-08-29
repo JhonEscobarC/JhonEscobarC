@@ -18,7 +18,6 @@
 <br>
 
 <p align="center">
-<br>
   
 - **Front-End Development**:
 
