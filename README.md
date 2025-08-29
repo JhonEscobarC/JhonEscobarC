@@ -1,5 +1,6 @@
 <h1 align="center"><b>Hi , I'm Jhon Escobar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
+<br>
 
 ## **About me**
 
@@ -19,7 +20,7 @@
 
 <p align="center">
   
-- **Front-End Development**:
+- **Front-End**:
 
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
